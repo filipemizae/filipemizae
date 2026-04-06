@@ -10,6 +10,8 @@
 
 Olá! Eu sou o **Filipe Mizael** 🙂
 
+**`Desenvolvedor FullStack`**
+
 Minha trajetória na tecnologia começou pelo **Web Design**, onde tive meu primeiro contato com desenvolvimento e criação de interfaces. A partir disso, evoluí para o desenvolvimento de sistemas, expandindo meus conhecimentos tanto no **frontend** quanto no **backend**.
 
 Atualmente, curso **Sistemas de Informação** e busco evoluir constantemente, focando em boas práticas, organização de código e construção de soluções reais e escaláveis.
@@ -41,6 +43,8 @@ Atualmente, curso **Sistemas de Informação** e busco evoluir constantemente, f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemizae&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ---
 
