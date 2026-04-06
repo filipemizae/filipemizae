@@ -1,4 +1,4 @@
-<h1 align="center">Filipe Mizael</h1>
+<h1>Filipe Mizael</h1>
 
 <p align="center">
   Estudante de Sistemas de Informação | Desenvolvedor em evolução
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻Sobre mim
 
 Olá! Eu sou o **Filipe Mizael** 🙂
 
@@ -44,16 +44,14 @@ Atualmente, curso **Sistemas de Informação** e busco evoluir constantemente, f
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemizae&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 ---
 
 ## O que você vai encontrar aqui
 
-- Projetos acadêmicos  
-- Projetos pessoais  
-- Estudos e experimentos  
-- Ideias em construção  
+▪▫ Projetos acadêmicos  
+▫▪ Projetos pessoais  
+▪▫ Estudos e experimentos  
+▫▪ Ideias em construção  
 
 ---
 
