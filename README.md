@@ -8,7 +8,7 @@
 
 ## 👩‍💻Sobre mim
 
-Olá! Eu sou o **Filipe Mizael** 🙂
+Olá! Eu sou o **Filipe Mizael**
 
 **`Desenvolvedor FullStack`**
 
